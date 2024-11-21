@@ -1,0 +1,6 @@
+@ahmedmostafa._0522030_S1_HostAddress = http://localhost:5001
+
+GET {{ahmedmostafa._0522030_S1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
